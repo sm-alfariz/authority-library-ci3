@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /**
  * Description of AuthentificationLib
- * 10/07/2105 Samarinda
+ * 10/07/2015 Samarinda
  * @author efendi hariyadi
  */
 class Authentification_Lib
